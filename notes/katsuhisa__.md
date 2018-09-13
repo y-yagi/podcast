@@ -34,7 +34,32 @@
 
 ## Topics
 
-TODO
+### Railsdmのスタッフ
+
+- なんでスタッフやろうと思ったのか
+- スタッフやることで得たもの
+- 実際にやってること
+
+### CodeZineの連載
+
+- 連載に至る経緯
+- これまでの内容の要約
+- これから書く予定のこと
+
+### SREという仕事
+
+- SREって普段何してるの？
+- https://speakerdeck.com/katsuhisa91/zui-gao-falseitenziniaringuwozhi-erushou-ritogong-mefalse-she-ji-ji-shu-to-sre
+  - バズったことについて
+- Railsも書いてる？
+
+### 日々の勉強
+
+- 毎日勉強してる？
+- そもそも、エンジニアって毎日勉強する必要あるのかどうか
+- インフラ（SRE）とRailsの時間配分について
+
+And more!
 
 ## 注意事項
 
