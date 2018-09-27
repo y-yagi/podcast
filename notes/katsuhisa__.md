@@ -12,10 +12,6 @@
 
 @okuramasafumi
 
-## わいわい担当
-
-未定
-
 ## 進行補助・制作
 
 @yhirano55
